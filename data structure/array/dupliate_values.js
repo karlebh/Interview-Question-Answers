@@ -1,7 +1,7 @@
 /**
 *	Question:
 *
-* 		Print duplicate value in an array of numbers and string??
+* 		Print duplicate value in an array of numbers and string.
 *
 * 	@param arr
 *	@return {array}
@@ -20,7 +20,7 @@ function print_duplicate_values(arr)
 /**
 *	Question:
 *
-* 		Remove duplicate value in an array of numbers and string?
+* 		Remove duplicate value in an array of numbers and string.
 *
 * 	@param arr
 *	@return {array}
@@ -39,11 +39,11 @@ function remove_duplicate_values(arr)
 /**
 *	Question:
 *
-* 	     	Given a list of numbers, where every number shows up twice except for one number, 
-*		find that one number?
+* 	     Given a list of numbers, where every number shows up twice except for one number, 
+*		find that one number.
 *
 * 	@param arr
-*   	@return {number}
+*   @return {number}
 */
 
 function find_single_number(arr)

@@ -8,7 +8,7 @@ The questions here are recent questions asked by big technology companies such a
 
 I subscribed to **Daily Intervew Pro** at [TechSeries](http://techseries.dev/daily).
 
-They charge `$9` per month for the solutions, but I want to research the solutions myself, so I didn't subscribe. There is fun n adventure!
+They charge `$9` per month for the solutions, but I want to research the solutions myself, so I didn't subscribe. There is fun in adventure!
 
 The questions are in Python but I prefer to answer in Javascript for now.
 
